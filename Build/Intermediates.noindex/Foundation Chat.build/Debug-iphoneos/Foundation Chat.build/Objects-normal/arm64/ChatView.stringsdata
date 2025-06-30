@@ -1,0 +1,24 @@
+{
+  "source": "/Users/zardashtkaya/Downloads/Foundation Chat/Foundation Chat/ChatView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Type a message...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 120
+        }
+      }
+    ]
+  },
+  "version": 1
+}

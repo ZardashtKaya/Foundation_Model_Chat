@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation Chat-master.dia",
+    "emit-module-dependencies" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation Chat-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation Chat-master-emit-module.dia",
+    "pch" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation Chat-master-Bridging-header.pch",
+    "swift-dependencies" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation Chat-master.swiftdeps"
+  },
+  "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/zardashtkaya/Downloads/Foundation Chat/Foundation Chat/ContentView.swift" : {
+    "const-values" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/zardashtkaya/Downloads/Foundation Chat/Foundation Chat/Foundation_ChatApp.swift" : {
+    "const-values" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation_ChatApp.swiftconstvalues",
+    "dependencies" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation_ChatApp.d",
+    "diagnostics" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation_ChatApp.dia",
+    "index-unit-output-path" : "/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation_ChatApp.o",
+    "llvm-bc" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation_ChatApp.bc",
+    "object" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation_ChatApp.o",
+    "swift-dependencies" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation_ChatApp.swiftdeps",
+    "swiftmodule" : "/Users/zardashtkaya/Downloads/Foundation Chat/Build/Intermediates.noindex/Foundation Chat.build/Debug-iphonesimulator/Foundation Chat.build/Objects-normal/arm64/Foundation_ChatApp~partial.swiftmodule"
+  }
+}
