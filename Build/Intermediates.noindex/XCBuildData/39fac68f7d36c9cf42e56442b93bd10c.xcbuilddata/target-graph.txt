@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Foundation Chat' in project 'Foundation Chat' (no dependencies)
